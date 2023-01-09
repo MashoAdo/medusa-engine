@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "outDir": "/dist"
+  },
+  "exclude": ["/node_modules"],
+  "include": ["/src/*", "/package.json", "/medusa-config.js", "/medusa-db-sql"]
+}

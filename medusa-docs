@@ -1,0 +1,4 @@
+Medusa
+-installed medusa cli
+-update the cli
+-build docker image from the preexisting dockerfile, dockerfile.yaml
